@@ -1,0 +1,24 @@
+
+The below files are empty:
+1) glove.6B.100d.txt
+2) numberbatch-en-19.08.txt
+
+
+Please use the below links to download the contents of these files.
+
+
+glove.6B.100d.txt - Download the glove embeddings from the below links:
+
+https://www.kaggle.com/datasets/danielwillgeorge/glove6b100dtxt
+
+https://nlp.stanford.edu/projects/glove/
+
+
+Conceptnet embeddings (numberbatch-en-19.08.txt):
+
+
+https://github.com/commonsense/conceptnet-numberbatch
+
+https://conceptnet.s3.amazonaws.com/downloads/2019/numberbatch/numberbatch-19.08.txt.gz
+
+
